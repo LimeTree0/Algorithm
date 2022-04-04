@@ -144,6 +144,7 @@
     <ClCompile Include="divide_merge.cpp" />
     <ClCompile Include="exchange_sort.cpp" />
     <ClCompile Include="iterative_fibonacci.cpp" />
+    <ClCompile Include="quick_sort.cpp" />
     <ClCompile Include="recursive_binary_search.cpp" />
     <ClCompile Include="recursive_fibonacci.cpp" />
     <ClCompile Include="sequential_search.cpp" />

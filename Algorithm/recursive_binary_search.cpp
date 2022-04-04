@@ -6,7 +6,7 @@
 //// 숫자 배열
 //int numArray[] = { 10,12,13,14,18,20,25,27,30,35,40,45,47 };
 ////검색 키값
-//int x = 3;
+//int x;
 //
 ////검색 함수
 //int location(int low, int high) {
@@ -27,7 +27,9 @@
 //}
 //
 //int main() {
-//
+//	x = 3;
 //	cout << location(0, N - 1) << endl;
 //
+//	x = 25;
+//	cout << location(0, N - 1) << endl;
 //}

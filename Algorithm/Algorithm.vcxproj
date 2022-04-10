@@ -144,10 +144,13 @@
     <ClCompile Include="divide_merge.cpp" />
     <ClCompile Include="exchange_sort.cpp" />
     <ClCompile Include="iterative_fibonacci.cpp" />
+    <ClCompile Include="MatrixMultiplication.cpp" />
     <ClCompile Include="quick_sort.cpp" />
     <ClCompile Include="recursive_binary_search.cpp" />
+    <ClCompile Include="binomial_coefficient.cpp" />
     <ClCompile Include="recursive_fibonacci.cpp" />
     <ClCompile Include="sequential_search.cpp" />
+    <ClCompile Include="StrassenAlgorithm.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

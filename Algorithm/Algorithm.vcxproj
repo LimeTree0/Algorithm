@@ -143,6 +143,8 @@
     <ClCompile Include="binary_search.cpp" />
     <ClCompile Include="divide_merge.cpp" />
     <ClCompile Include="exchange_sort.cpp" />
+    <ClCompile Include="floyd algorihm.cpp" />
+    <ClCompile Include="floyd algorithm2.cpp" />
     <ClCompile Include="iterative_fibonacci.cpp" />
     <ClCompile Include="MatrixMultiplication.cpp" />
     <ClCompile Include="quick_sort.cpp" />

@@ -57,5 +57,8 @@
     <ClCompile Include="floyd algorithm2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Matrix chain multiplication.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

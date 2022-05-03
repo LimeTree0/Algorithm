@@ -148,6 +148,7 @@
     <ClCompile Include="iterative_fibonacci.cpp" />
     <ClCompile Include="Matrix chain multiplication.cpp" />
     <ClCompile Include="MatrixMultiplication.cpp" />
+    <ClCompile Include="prim algorithm.cpp" />
     <ClCompile Include="quick_sort.cpp" />
     <ClCompile Include="recursive_binary_search.cpp" />
     <ClCompile Include="binomial_coefficient.cpp" />

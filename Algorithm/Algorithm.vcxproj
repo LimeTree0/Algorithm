@@ -140,12 +140,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\Desktop\백업\강의 자료\알고리즘\3주차\GCD.cpp" />
+    <ClCompile Include="0-1 knapsack problem.cpp" />
     <ClCompile Include="binary_search.cpp" />
+    <ClCompile Include="dijkstra algorithm.cpp" />
     <ClCompile Include="divide_merge.cpp" />
     <ClCompile Include="exchange_sort.cpp" />
     <ClCompile Include="floyd algorihm.cpp" />
     <ClCompile Include="floyd algorithm2.cpp" />
     <ClCompile Include="iterative_fibonacci.cpp" />
+    <ClCompile Include="kruskal algorithm.cpp" />
     <ClCompile Include="Matrix chain multiplication.cpp" />
     <ClCompile Include="MatrixMultiplication.cpp" />
     <ClCompile Include="prim algorithm.cpp" />

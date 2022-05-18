@@ -2,7 +2,7 @@
 //#include<algorithm>
 //#include<vector>
 //
-//#define N 5
+//#define N 3
 //using namespace std;
 //
 //class Edge {
@@ -59,17 +59,17 @@
 //}
 //
 //int main() {
-//	graph.push_back(Edge(1, 2, 1));
-//	graph.push_back(Edge(1, 3, 3));
-//	graph.push_back(Edge(2, 3, 3));
-//	graph.push_back(Edge(2, 4, 6));
-//	graph.push_back(Edge(3, 4, 4));
-//	graph.push_back(Edge(3, 5, 2));
-//	graph.push_back(Edge(4, 5, 5));
+//	graph.push_back(Edge(1, 2, 3));
+//	graph.push_back(Edge(1, 3, 2));
+//	graph.push_back(Edge(2, 3, 1));
 //
 //	kruskal();
 //
 //	for (int i = 0; i < MST.size(); i++) {
 //		cout << MST[i].vertex1 << "<->" << MST[i].vertex2 << "  weight : " << MST[i].weight << endl;
+//	}
+//
+//	for (int a : set) {
+//		cout << a << " ";
 //	}
 //}

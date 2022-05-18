@@ -149,8 +149,10 @@
     <ClCompile Include="floyd algorithm2.cpp" />
     <ClCompile Include="iterative_fibonacci.cpp" />
     <ClCompile Include="kruskal algorithm.cpp" />
+    <ClCompile Include="m-graph coloring.cpp" />
     <ClCompile Include="Matrix chain multiplication.cpp" />
     <ClCompile Include="MatrixMultiplication.cpp" />
+    <ClCompile Include="n-queens.cpp" />
     <ClCompile Include="prim algorithm.cpp" />
     <ClCompile Include="quick_sort.cpp" />
     <ClCompile Include="recursive_binary_search.cpp" />

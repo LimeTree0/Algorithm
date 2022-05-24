@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\Desktop\백업\강의 자료\알고리즘\3주차\GCD.cpp" />
+    <ClCompile Include="0-1 knapsack backtracking.cpp" />
     <ClCompile Include="0-1 knapsack problem.cpp" />
     <ClCompile Include="binary_search.cpp" />
     <ClCompile Include="dijkstra algorithm.cpp" />

@@ -78,5 +78,8 @@
     <ClCompile Include="m-graph coloring.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0-1 knapsack backtracking.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

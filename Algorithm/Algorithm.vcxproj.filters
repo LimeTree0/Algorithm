@@ -36,9 +36,6 @@
     <ClCompile Include="divide_merge.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\백업\강의 자료\알고리즘\3주차\GCD.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="quick_sort.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
